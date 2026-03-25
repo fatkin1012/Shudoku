@@ -154,6 +154,7 @@ button:focus-visible {
   margin-top: 20px;
   display: grid;
   grid-template-columns: repeat(9, minmax(0, 1fr));
+  aspect-ratio: 1;
   border: 2px solid var(--primary-strong);
   border-radius: 10px;
   overflow: hidden;

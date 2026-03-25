@@ -28,7 +28,7 @@ After build, verify:
 - `dist/index.html` exists
 - `dist/index.html` references bundled assets, not `/src/...`
 
-## Toolbox Preview Compatibility
+## Orbit Preview Compatibility
 
 - First screen renders immediate, meaningful content
 - Works without backend dependency

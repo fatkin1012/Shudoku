@@ -1,6 +1,6 @@
 # Shudoku
 
-A lightweight Sudoku mini-game built with React + TypeScript + Vite, designed to work with Toolbox static preview import rules.
+A lightweight Sudoku mini-game built with React + TypeScript + Vite, designed to work with ProjectOrbit static preview import rules.
 
 ## Scripts
 
